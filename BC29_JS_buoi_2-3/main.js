@@ -39,7 +39,7 @@ document.getElementById("btnCong").onclick = function() {
     // document.getElementById("divInfo").style.margin= "20px";
 
     //Style div#divInfo - Class gán thẻ class sẽ xóa những cái cũ
-    document.getElementById("divInfo").className = "textUpper showInfo";
+    //document.getElementById("divInfo").className = "textUpper showInfo bg-primary";
 
     //Style div#divInfo - classlist thêm thuộc tính cho thẻ class
     document.getElementById("divInfo").classList.add("showInfo");
